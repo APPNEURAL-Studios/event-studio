@@ -1,0 +1,122 @@
+{
+  "slug": "event-studio",
+  "host": "event",
+  "title": "Event Studio",
+  "tagline": "Ticketing, agendas and virtual events",
+  "description": "Build event pages, ticketing, and agendas for in-person, virtual, and hybrid events. Manage speakers, sponsors, registration, and check-in, design badges and seating charts, run live polls and livestreams, and send post-event surveys.",
+  "editors": [
+    {
+      "category": "Event Management Editors",
+      "name": "Event Page Editor",
+      "desc": "Event landing page builder"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Ticketing Editor",
+      "desc": "Ticket types and pricing configuration"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Agenda Editor",
+      "desc": "Session and schedule planning"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Speaker Profile Editor",
+      "desc": "Speaker bio and session assignment"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Registration Form Editor",
+      "desc": "Attendee registration flow"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Virtual Venue Editor",
+      "desc": "Online event space configuration"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Booth/Sponsor Editor",
+      "desc": "Exhibitor and sponsor booth setup"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Check-in Editor",
+      "desc": "On-site/virtual check-in flow"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Badge Editor",
+      "desc": "Attendee badge design"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Networking Editor",
+      "desc": "Attendee matchmaking and networking rules"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Live Poll/Q&A Editor",
+      "desc": "Real-time audience interaction tools"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Event Email Editor",
+      "desc": "Invitation and reminder email sequences"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Post-Event Survey Editor",
+      "desc": "Feedback collection after event"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Seating Chart Editor",
+      "desc": "Venue seating arrangement"
+    },
+    {
+      "category": "Event Management Editors",
+      "name": "Livestream Editor",
+      "desc": "Stream layout and overlay configuration"
+    }
+  ],
+  "services": [
+    [
+      "scheduling",
+      "new"
+    ],
+    [
+      "commerce",
+      "core"
+    ],
+    [
+      "order",
+      "core"
+    ],
+    [
+      "payment",
+      "core"
+    ],
+    [
+      "customer",
+      "core"
+    ],
+    [
+      "marketing",
+      "core"
+    ],
+    [
+      "location",
+      "new"
+    ],
+    [
+      "media",
+      "new"
+    ],
+    [
+      "publishing",
+      "core"
+    ]
+  ]
+}
